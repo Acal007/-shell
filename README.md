@@ -1,7 +1,4 @@
-# shell
-    shell实例手册
-}
-
+# shell实例手册
 1 文件{
 
     ls -rtl                                    # 按时间倒叙列出所有目录和文件 ll -rt
